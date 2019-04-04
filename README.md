@@ -9,12 +9,8 @@ The NBA and college data comes from four sources: Basketball Reference, Sports R
 Regarding the findings, the most predictive variables for early NBA success (in terms of VORP) are steals, defensive rebounds, games, two-point field goal attempts and height. The least predictive variables in the model are the player’s wingspan, turnovers, assists, blocks and personal fouls. The top 3 and bottom 3 variables are shown above in graph 1 with their importance scores output by the algorithm. In 2018 draft projection, the most promising player identified by the model is Mohamed Bamba with a ranking of 6 in the real draft. Trae young, as a rising star regarded by many fans, ranks the second in my projection with a projected VORP being 5. Interestingly, Alize Johnson ends up being in the top tier but his real order in the draft is 50, indicating he could be a player with high potential but is not fairly valued. The last player is Grayson Allen whose ranking in 2018 draft is 21, meaning the player is overrated to some extent.
 
 Reference:
-https://www.cmusportsanalytics.com/2017-nba-draft-forecast/
-/n
-http://www.basketball-reference.com/
-\n
-http://www.draftexpress.com/
-\n
-http://www.sports-reference.com/
-\n
-https://www.nba.com/
+- https://www.cmusportsanalytics.com/2017-nba-draft-forecast/
+- http://www.basketball-reference.com/
+- http://www.draftexpress.com/
+- http://www.sports-reference.com/
+- https://www.nba.com/
