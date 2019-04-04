@@ -1,4 +1,4 @@
-# sports_draft_analysis
+# Sports Draft Analysis
 
 According to Wikipedia, the NBA draft happens every year in June. It is where teams in the National Basketball Association (NBA) choose players who have never played in the NBA before. This analysis is intended to shed some light on which college stats are most predictive in terms of their early success. The teams can take advantage of it as a reference when scouting players. This can also help recognize talents that deserve the attention and ‘draft busts’ who are overestimated. 
 
