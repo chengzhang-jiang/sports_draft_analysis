@@ -10,7 +10,7 @@ Regarding the findings, the most predictive variables for early NBA success (in 
 
 Reference:
 https://www.cmusportsanalytics.com/2017-nba-draft-forecast/
-\n
+/n
 http://www.basketball-reference.com/
 \n
 http://www.draftexpress.com/
